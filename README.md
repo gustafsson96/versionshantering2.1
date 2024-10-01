@@ -10,13 +10,4 @@ Syftet med detta moment är att:
 * Kunna använda Git för versionshantering
 * Visa på hur markdown kan användas för att skapa prydliga beskrivnings-filer
 
-*Skapad av Julia Gustafsson, gustafsson96*
-
-
-
-
-
-
-**_Text i både italics och bold_**
-
-~~Överstryken text~~
+**_Skapad av Julia Gustafsson, gustafsson96_**
